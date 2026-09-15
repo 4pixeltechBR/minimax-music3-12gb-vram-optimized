@@ -1,0 +1,11 @@
+# MiniMax-Music 3.0 (12GB VRAM Optimized) Dependencies
+torch>=2.1.0
+bitsandbytes>=0.43.0
+diffsynth
+transformers>=4.40.0
+soundfile>=0.12.1
+numpy>=1.24.0
+psutil>=5.9.0
+tqdm>=4.66.0
+modelscope>=1.15.0
+huggingface-hub>=0.23.0

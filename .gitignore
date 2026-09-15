@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output directories and heavy audio
+outputs/*.wav
+outputs/*.mp3
+outputs/*.flac
+outputs/live_*.json
+cache/
+checkpoints/
+
+# System / OS files
+.DS_Store
+Thumbs.db
+*.log
