@@ -7,6 +7,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.1+](https://img.shields.io/badge/PyTorch-2.1%2B-orange.svg)](https://pytorch.org/)
 [![VRAM: 12GB Tested](https://img.shields.io/badge/VRAM-12GB%20Target-success.svg)](#-benchmarks-8-faixas-produzidas)
+[![Audio Demos](https://img.shields.io/badge/Audio%20Demos-8%20Tracks%20(320k)-brightgreen.svg)](#-demonstrações-em-áudio-mp3-320-kbps)
 
 ### 🌐 Selecione o Idioma / Select Language:
 **[ 🇧🇷 Português (PT-BR) ](#-versão-em-português)** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🇺🇸 English (EN) ](#-english-version)**
@@ -89,6 +90,26 @@ Todas as faixas são produções completas de **até 3 minutos e 35 segundos (21
 
 ---
 
+## 🎧 Demonstrações em Áudio (MP3 320 kbps)
+
+Ouça diretamente no navegador as 8 músicas completas geradas pelo pipeline em uma **NVIDIA RTX 3060 (12GB VRAM)**:
+
+| # | Título da Faixa | Gênero / Identidade Sonora | Duração | Player no GitHub |
+| :-: | :--- | :--- | :-: | :--- |
+| **1** | **Shattered Glass Inside** | Nu-Metal / Melodic Alt-Rock | 3m 35s | [▶️ Ouvir Faixa](demos/shattered_glass_inside_master.mp3) |
+| **2** | **Shadows On The Dancefloor** | 80s Funk-Pop / Dance-Rock | 3m 28s | [▶️ Ouvir Faixa](demos/shadows_on_the_dancefloor_master.mp3) |
+| **3** | **Wharf Street Lanterns** | Roots Rock / British Blues | 3m 34s | [▶️ Ouvir Faixa](demos/wharf_street_lanterns_master.mp3) |
+| **4** | **Crown of Thorns & Snow** | Symphonic Gothic Rock | 3m 35s | [▶️ Ouvir Faixa](demos/crown_of_thorns_and_snow_master.mp3) |
+| **5** | **Iron In The Blood** | 80s Thrash Metal / Heavy Metal | 3m 35s | [▶️ Ouvir Faixa](demos/iron_in_the_blood_master.mp3) |
+| **6** | **Antes Que O Dia Amanheça** | Pop Rock / Post-Punk Revival | 3m 35s | [▶️ Ouvir Faixa](demos/antes_que_o_dia_amanheca_master.mp3) |
+| **7** | **One Breath Left** | Cinematic Hip-Hop / Rock-Rap | 2m 55s | [▶️ Ouvir Faixa](demos/one_breath_left_master.mp3) |
+| **8** | **Circus of the Broken Clocks** | Avant-Garde Metal / Alt Nu-Metal | 3m 35s | [▶️ Ouvir Faixa](demos/circus_of_the_broken_clocks_master.mp3) |
+
+> 💡 *Dica: Clique em "▶️ Ouvir Faixa" para abrir o player nativo de áudio do GitHub diretamente no seu navegador.*
+
+
+---
+
 ## 🚀 Guia Rápido de Uso
 
 ### 1. Requisitos de Sistema
@@ -164,6 +185,7 @@ Totalmente livre e permissiva para uso comercial, pessoal e acadêmico.
 
 ## 🇺🇸 English Version
 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.1+](https://img.shields.io/badge/PyTorch-2.1%2B-orange.svg)](https://pytorch.org/)
@@ -233,6 +255,25 @@ All songs are complete studio compositions of **up to 3 minutes and 35 seconds (
 | **8** | **Circus of the Broken Clocks** | Avant-Garde Metal / Alt Nu-Metal | 3m 35s | 26.02 min | 4.72 tok/s | 8.62 GB | 36.21 MB WAV |
 
 *Detailed forensic telemetry and acoustic measurements are documented in [BENCHMARKS.md](BENCHMARKS.md).*
+
+---
+
+## 🎧 Audio Showcase (320 kbps MP3 Demos)
+
+Listen to all 8 full-length master tracks directly in your browser, rendered autonomously on a consumer **NVIDIA RTX 3060 (12GB VRAM)**:
+
+| # | Track Title | Sonic Identity / Genre | Audio Length | In-Browser Player |
+| :-: | :--- | :--- | :-: | :--- |
+| **1** | **Shattered Glass Inside** | Nu-Metal / Melodic Alt-Rock | 3m 35s | [▶️ Listen to Track](demos/shattered_glass_inside_master.mp3) |
+| **2** | **Shadows On The Dancefloor** | 80s Funk-Pop / Dance-Rock | 3m 28s | [▶️ Listen to Track](demos/shadows_on_the_dancefloor_master.mp3) |
+| **3** | **Wharf Street Lanterns** | Roots Rock / British Blues | 3m 34s | [▶️ Listen to Track](demos/wharf_street_lanterns_master.mp3) |
+| **4** | **Crown of Thorns & Snow** | Symphonic Gothic Rock | 3m 35s | [▶️ Listen to Track](demos/crown_of_thorns_and_snow_master.mp3) |
+| **5** | **Iron In The Blood** | 80s Thrash Metal / Heavy Metal | 3m 35s | [▶️ Listen to Track](demos/iron_in_the_blood_master.mp3) |
+| **6** | **Antes Que O Dia Amanheça** | Pop Rock / Post-Punk Revival | 3m 35s | [▶️ Listen to Track](demos/antes_que_o_dia_amanheca_master.mp3) |
+| **7** | **One Breath Left** | Cinematic Hip-Hop / Rock-Rap | 2m 55s | [▶️ Listen to Track](demos/one_breath_left_master.mp3) |
+| **8** | **Circus of the Broken Clocks** | Avant-Garde Metal / Alt Nu-Metal | 3m 35s | [▶️ Listen to Track](demos/circus_of_the_broken_clocks_master.mp3) |
+
+> 💡 *Tip: Click on "▶️ Listen to Track" to open GitHub's native HTML5 media player directly in your browser.*
 
 ---
 
@@ -306,3 +347,4 @@ To get professional audio results from MiniMax-Music 3.0:
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 Totally free and permissive for personal, commercial, and research use.
+
