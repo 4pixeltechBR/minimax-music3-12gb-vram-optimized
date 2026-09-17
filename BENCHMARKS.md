@@ -21,9 +21,9 @@ Comparison for generating a complete **3-minute and 35-second (215s) song** (~5,
 
 ---
 
-## 2. Forensic Telemetry Table: 8 Validated Master Tracks
+## 2. Forensic Telemetry Table: 9 Validated Master Tracks
 
-All 8 tracks were generated autonomously with 5-minute thermal cooldown periods between tracks.
+All tracks were generated autonomously with 5-minute thermal cooldown periods between tracks.
 
 | # | Track Title | Genre / Sonic Identity | Audio Duration | GPU Production Time | Semantic Rate | Peak VRAM | RMS Energy | Peak Level | File Size |
 | :-: | :--- | :--- | :-: | :-: | :-: | :-: | :-: | :-: | :--- |
@@ -35,19 +35,20 @@ All 8 tracks were generated autonomously with 5-minute thermal cooldown periods 
 | **6** | **Antes Que O Dia Amanheça** | Pop Rock / Post-Punk Revival | 3.59 min (215.3s) | 25.90 min | 4.74 tok/s | 8.62 GB | -17.31 dB | 0.00 dB | 36.21 MB |
 | **7** | **One Breath Left** | Cinematic Hip-Hop / Rock-Rap | 2.91 min (174.5s) | 20.32 min | 4.95 tok/s | 8.63 GB | -16.93 dB | 0.00 dB | 29.36 MB |
 | **8** | **Circus of the Broken Clocks** | Avant-Garde Metal / Alt Nu-Metal | 3.59 min (215.3s) | 26.02 min | 4.72 tok/s | 8.62 GB | -17.09 dB | 0.00 dB | 36.21 MB |
+| **9** | **Na Manha do Gato** | Brazilian Samba-Rap / Rio Hip-Hop | 3.15 min (189.0s) | 37.25 min | 2.57 tok/s | 8.88 GB | -18.19 dB | 0.00 dB | 31.80 MB |
 
 ---
 
 ## 3. Consolidated Production Totals
 
-* **Total Completed Tracks:** 8 master recordings (100% success rate)
-* **Total Clean Audio Rendered:** **27.88 minutes (1,673.0 seconds)** of CD-quality 44.1 kHz stereo audio
-* **Total GPU Production Time:** **197.52 minutes (~3h 17m)**
-* **Average Production Time per Song:** **24.69 minutes**
-* **Total Semantic Tokens Processed:** **41,983 tokens**
-* **Average Semantic Synthesis Throughput:** **4.87 tokens/second**
-* **VRAM Ceiling:** **8.99 GB allocated / 9.85 GB reserved** (Consistently > 2.2 GB free GDDR6 margin)
-* **Total Output Size:** **281.41 MB** in uncompressed WAV masters
+* **Total Completed Tracks:** 9 master recordings (100% success rate)
+* **Total Clean Audio Rendered:** **31.03 minutes (1,862.05 seconds)** of CD-quality 44.1 kHz stereo audio
+* **Total GPU Production Time:** **234.77 minutes (~3h 55m)**
+* **Average Production Time per Song:** **26.09 minutes**
+* **Total Semantic Tokens Processed:** **46,703 tokens**
+* **Average Semantic Synthesis Throughput:** **4.47 tokens/second**
+* **VRAM Ceiling:** **8.99 GB allocated / 11.06 GB reserved** (Consistently > 2.0 GB free GDDR6 margin)
+* **Total Output Size:** **313.21 MB** in uncompressed WAV masters
 
 ---
 

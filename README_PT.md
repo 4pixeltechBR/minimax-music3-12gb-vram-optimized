@@ -53,7 +53,7 @@ Executar a implementação original em placas com 12GB de VRAM causa gargalos se
 
 ---
 
-## 📊 Benchmarks: 8 Faixas Produzidas
+## 📊 Benchmarks: 9 Faixas Produzidas
 
 Todas as faixas são produções completas de **até 3 minutos e 35 segundos (215 segundos)** criadas em uma única **NVIDIA GeForce RTX 3060 (12GB GDDR6)**:
 
@@ -67,6 +67,7 @@ Todas as faixas são produções completas de **até 3 minutos e 35 segundos (21
 | **6** | **Antes Que O Dia Amanheça** | Pop Rock / Post-Punk Revival | 3m 35s | 25.90 min | 4.74 tok/s | 8.62 GB | 36.21 MB WAV |
 | **7** | **One Breath Left** | Cinematic Hip-Hop / Rock-Rap | 2m 55s | 20.32 min | 4.95 tok/s | 8.63 GB | 29.36 MB WAV |
 | **8** | **Circus of the Broken Clocks** | Avant-Garde Metal / Alt Nu-Metal | 3m 35s | 26.02 min | 4.72 tok/s | 8.62 GB | 36.21 MB WAV |
+| **9** | **Na Manha do Gato** | Brazilian Samba-Rap / Rio Hip-Hop | 3m 09s | 37.25 min | 2.57 tok/s | 8.88 GB | 31.80 MB WAV |
 
 *A telemetria detalhada e medições acústicas estão documentadas em [BENCHMARKS.md](BENCHMARKS.md).*
 
@@ -74,7 +75,7 @@ Todas as faixas são produções completas de **até 3 minutos e 35 segundos (21
 
 ## 🎧 Demonstrações em Áudio (MP3 320 kbps)
 
-Ouça diretamente no navegador as 8 músicas completas geradas pelo pipeline em uma **NVIDIA RTX 3060 (12GB VRAM)**:
+Ouça diretamente no navegador as 9 músicas completas geradas pelo pipeline em uma **NVIDIA RTX 3060 (12GB VRAM)**:
 
 | # | Título da Faixa | Gênero / Identidade Sonora | Duração | Player no GitHub |
 | :-: | :--- | :--- | :-: | :--- |
@@ -86,6 +87,7 @@ Ouça diretamente no navegador as 8 músicas completas geradas pelo pipeline em 
 | **6** | **Antes Que O Dia Amanheça** | Pop Rock / Post-Punk Revival | 3m 35s | [▶️ Ouvir Faixa](demos/antes_que_o_dia_amanheca_master.mp3) |
 | **7** | **One Breath Left** | Cinematic Hip-Hop / Rock-Rap | 2m 55s | [▶️ Ouvir Faixa](demos/one_breath_left_master.mp3) |
 | **8** | **Circus of the Broken Clocks** | Avant-Garde Metal / Alt Nu-Metal | 3m 35s | [▶️ Ouvir Faixa](demos/circus_of_the_broken_clocks_master.mp3) |
+| **9** | **Na Manha do Gato** | Brazilian Samba-Rap / Rio Hip-Hop | 3m 09s | [▶️ Ouvir Faixa](demos/na_manha_do_gato_master.mp3) |
 
 > 💡 *Dica: Clique em "▶️ Ouvir Faixa" para abrir o player nativo de áudio do GitHub diretamente no seu navegador.*
 

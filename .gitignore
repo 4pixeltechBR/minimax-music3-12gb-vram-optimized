@@ -22,3 +22,7 @@ checkpoints/
 .DS_Store
 Thumbs.db
 *.log
+
+# Models weight folder
+models/
+
